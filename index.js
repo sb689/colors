@@ -19,3 +19,7 @@ class Color {
   }
   
   exports.allColors = allColors;
+
+  exports.getBlue = () => {
+    return allColors[2];
+  }

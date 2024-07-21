@@ -22,4 +22,4 @@ class Color {
 
   exports.getBlue = () => {
     return allColors[2];
-  }
+  };

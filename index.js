@@ -21,5 +21,7 @@ class Color {
   exports.allColors = allColors;
 
   exports.getBlue = () => {
-    return allColors[2];
+    return allColors[3];
   };
+
+  //npm install https://github.com/sb689/colors.git
